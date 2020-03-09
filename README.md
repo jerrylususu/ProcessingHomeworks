@@ -24,7 +24,7 @@
 
 ![squaredraw](doc/images/squaredraw.gif)
 
-## Sum
+## Sun
 
 ![sun](doc/images/sun.gif)
 
